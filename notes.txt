@@ -1,2 +1,15 @@
 Kevin Malor - MD/Software Engineer.
 
+code.cerner.com/developer/smart-on-fhir
+fhir.epic.com -> new api for health system app
+
+Verona classes
+
+Fire.Cerner.com  <-Nuitrition requests/sevice requests
+
+AWS launched serverless fhir interface
+
+www.patient.dev/covid
+
+PCR test Pull from FHIR
+
