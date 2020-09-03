@@ -13,3 +13,19 @@ www.patient.dev/covid
 
 PCR test Pull from FHIR
 
+app.html calls fhir-client-vs.js << Very Commonly Used
+
+Loinc.org has test
+
+21st centurary cures act (NIH/FHIR AID/Support)
+
+Cerner, Epic, All Scrips -> Arganon which became FHIR
+
+hl7.org/fhir/
+
+True Vault Hippa as a service
+
+FHIR Dev Days on Youtube
+
+
+
